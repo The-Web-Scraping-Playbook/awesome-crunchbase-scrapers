@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Crunchbase OpsKit
+> Find out everything you need to know to reliably scrape Crunchbase with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/crunchbase)
+
+This kit provides the blueprint for Crunchbase scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-crunchbase-scrapers)
 - [Scrapers By Language](#crunchbase-scrapers-by-language)
@@ -36,51 +47,50 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-crunchbase-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [crunchbase-scraper](https://github.com/stoicaandrei/crunchbase-scraper) ![img](https://github.com/stoicaandrei.png?size=20) | python | ⭐ 62 | ✅ Yes | 2020-01-04 | ✅ |
-| [CrunchbaseWrapper](https://github.com/snehasinghania/CrunchbaseWrapper) ![img](https://github.com/snehasinghania.png?size=20) | python | ⭐ 15 | ✅ Yes | 2019-04-27 | ✅ |
-| [Crunchbase-Scraper-Parser](https://github.com/abhit20/Crunchbase-Scraper-Parser) ![img](https://github.com/abhit20.png?size=20) | python | ⭐ 12 | ✅ Yes | 2022-05-23 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [crunchbase-scraper](https://github.com/stoicaandrei/crunchbase-scraper) ![img](https://github.com/stoicaandrei.png?size=20) | python | ⭐ 62 | ❌ No | 2020-01-04 |
+| [CrunchbaseWrapper](https://github.com/snehasinghania/CrunchbaseWrapper) ![img](https://github.com/snehasinghania.png?size=20) | python | ⭐ 15 | ❌ No | 2019-04-27 |
+| [Crunchbase-Scraper-Parser](https://github.com/abhit20/Crunchbase-Scraper-Parser) ![img](https://github.com/abhit20.png?size=20) | python | ⭐ 12 | ❌ No | 2022-05-23 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Crunchbase Scrapers By Language <a id="crunchbase-scrapers-by-language"></a>
-
-### Html
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [crunchbase-scraper](https://github.com/benstclair/crunchbase-scraper) | ⭐ 12 | 2018-05-17 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [crunchbase-scraper](https://github.com/stoicaandrei/crunchbase-scraper) | ⭐ 62 | 2020-01-04 | immediate | ❌ No |
+| [CrunchbaseWrapper](https://github.com/snehasinghania/CrunchbaseWrapper) | ⭐ 15 | 2019-04-27 | professional | ❌ No |
+| [Crunchbase-Scraper-Parser](https://github.com/abhit20/Crunchbase-Scraper-Parser) | ⭐ 12 | 2022-05-23 | immediate | ❌ No |
+| [crunchbase_scraper](https://github.com/ianhong95/crunchbase_scraper) | ⭐ 9 | 2021-07-08 | immediate | ❌ No |
+| [crunchbase-scraper](https://github.com/FredericoBaker/crunchbase-scraper) | ⭐ 6 | 2023-12-18 | immediate | ❌ No |
+| [crunchbase-scraper](https://github.com/uSurveys/crunchbase-scraper) | ⭐ 3 | 2021-05-05 | unknown | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [puppeteer-crunchbase-scraper](https://github.com/abhi-singhs/puppeteer-crunchbase-scraper) | ⭐ 5 | 2021-04-18 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [puppeteer-crunchbase-scraper](https://github.com/abhi-singhs/puppeteer-crunchbase-scraper) | ⭐ 5 | 2021-04-18 | immediate | ❌ No |
+
+
+### Html
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [crunchbase-scraper](https://github.com/benstclair/crunchbase-scraper) | ⭐ 12 | 2018-05-17 | unknown | ❌ No |
 
 
 ### Php
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [php-crunchbase-scraper](https://github.com/grdnrio/php-crunchbase-scraper) | ⭐ 2 | 2012-10-31 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [crunchbase-scraper](https://github.com/stoicaandrei/crunchbase-scraper) | ⭐ 62 | 2020-01-04 | — | ✅ Yes |
-| [CrunchbaseWrapper](https://github.com/snehasinghania/CrunchbaseWrapper) | ⭐ 15 | 2019-04-27 | — | ✅ Yes |
-| [Crunchbase-Scraper-Parser](https://github.com/abhit20/Crunchbase-Scraper-Parser) | ⭐ 12 | 2022-05-23 | — | ✅ Yes |
-| [crunchbase_scraper](https://github.com/ianhong95/crunchbase_scraper) | ⭐ 9 | 2021-07-08 | — | ✅ Yes |
-| [crunchbase-scraper](https://github.com/FredericoBaker/crunchbase-scraper) | ⭐ 6 | 2023-12-18 | — | ✅ Yes |
-| [crunchbase-scraper](https://github.com/uSurveys/crunchbase-scraper) | ⭐ 3 | 2021-05-05 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [php-crunchbase-scraper](https://github.com/grdnrio/php-crunchbase-scraper) | ⭐ 2 | 2012-10-31 | immediate | ❌ No |
 
 
 ### Unknown
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [crunchbase-scraper](https://github.com/scrapefulldotcom/crunchbase-scraper) | ⭐ 5 | 2024-06-20 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [crunchbase-scraper](https://github.com/scrapefulldotcom/crunchbase-scraper) | ⭐ 5 | 2024-06-20 | professional | ❌ No |
 
 ---
 
@@ -111,7 +121,7 @@ Know a Crunchbase scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
