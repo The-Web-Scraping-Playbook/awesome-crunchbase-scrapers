@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Crunchbase OpsKit
-> Find out everything you need to know to reliably scrape Crunchbase with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/crunchbase)
+> Find out everything you need to know to reliably scrape Crunchbase with our new tool: [Ops Kit](https://scrapeops.io/websites/crunchbase)
 
 This kit provides the blueprint for Crunchbase scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -109,7 +109,7 @@ This kit provides the blueprint for Crunchbase scraping operations:
 ---
 
 ## 🧠 Crunchbase Tutorials & How-Tos<a id="crunchbase-tutorials"></a>
-- 📘 [How to Scrape Crunchbase at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-crunchbase/)
+- 📘 [How to Scrape Crunchbase at Scale](https://scrapeops.io/websites/crunchbase/how-to-scrape-crunchbase)
 - 🔐 [Web Scraping Crunchbase Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
